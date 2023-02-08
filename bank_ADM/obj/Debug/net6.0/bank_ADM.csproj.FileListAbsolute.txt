@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\bin\Debug\net6.0\bank_ADM.exe
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\bin\Debug\net6.0\bank_ADM.deps.json
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\bin\Debug\net6.0\bank_ADM.runtimeconfig.json
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\bin\Debug\net6.0\bank_ADM.dll
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\bin\Debug\net6.0\bank_ADM.pdb
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\bank_ADM.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\bank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\bank_ADM.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\bank_ADM.AssemblyInfo.cs
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\bank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\bank_ADM.dll
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\refint\bank_ADM.dll
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\bank_ADM.pdb
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\bank_ADM.genruntimeconfig.cache
+C:\Users\rodri\source\repos\bank_ADM\bank_ADM\obj\Debug\net6.0\ref\bank_ADM.dll
